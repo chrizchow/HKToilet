@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">香港廁所</string>
+    <string name="btn_refresh">重新整理</string>
+    <string name="json_url"><![CDATA[http://plbpc013.ouhk.edu.hk/lbitest/json-toilet-v2.php?lang=zh_tw&]]></string>
+    <string name="action_settings">設定</string>
+    <string name="no_location_detected">未能取得定位資訊</string>
+    <string name="distance">距離：</string>
+    <string name="distance_meter">米</string>
+    <string name="my_location">我的位置：</string>
+    <string name="btn_about">關於</string>
+    <string name="please_refresh">請按下重新整理</string>
+    <string name="about_title">關於香港廁所</string>
+    <string name="about_message">香港廁所可以幫助你找到最近的廁所\n版權所有</string>
+</resources>
